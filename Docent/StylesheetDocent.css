@@ -1,0 +1,21 @@
+/*CSS for changing navbar color*/
+.navbar-default {
+    background-image: none !important;
+    background-color: #337AB7 !important;
+} 
+
+.active {
+    background-image: none !important;
+    background-color: #337AB7 !important;
+}
+
+.btn-primary {
+    background-image: none !important;
+    background-color: #337AB7 !important;
+}
+
+/* Style to reverse the caret icon from pointing downwards to upwards(KlasKiezen.php) */
+  .caret.caret-up {
+    border-top-width: 0;
+    border-bottom: 4px solid #fff;
+  }

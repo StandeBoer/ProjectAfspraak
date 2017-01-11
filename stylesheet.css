@@ -1,0 +1,49 @@
+* {
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+        font-family: "LatoWeb";
+
+}
+
+body {
+    padding-top: 70px;
+}          
+
+/*CSS for changing navbar color*/
+.navbar-default {
+    background-image: none !important;
+    background-color: #337AB7 !important;
+}
+
+.active {
+    background-image: none !important;
+    background-color: #337AB7 !important;
+}
+
+/*Remove css for datetime picker*/
+.remove {
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-image: none !important;
+    background-color: #337AB7 !important;
+}
+
+/* Style to reverse the caret icon from pointing downwards to upwards(KlasKiezen.php) */
+  .caret.caret-up {
+    border-top-width: 0;
+    border-bottom: 4px solid #777;
+  }
+  
+  /*Spacing between added times*/
+  .datepickerspace {
+      margin-right: 10px;
+  }
+  
+  /*Inputbox width of aantal personen*/
+  .inputaantalpers {
+      width: 105px;
+  }
